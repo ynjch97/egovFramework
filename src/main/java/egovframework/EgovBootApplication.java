@@ -13,7 +13,7 @@ import egovframework.com.config.EgovWebApplicationInitializer;
 @ServletComponentScan
 @SpringBootApplication
 @Import({EgovWebApplicationInitializer.class})
-public class EgovBootApplication {
+public class EgovBootApplication { // 커밋 테스트
 	
 	public static void main(String[] args) {
 		System.out.println("##### EgovBootApplication Start #####");
