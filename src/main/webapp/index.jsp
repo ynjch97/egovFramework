@@ -34,5 +34,8 @@
 	<p>
 	자세한 사항은 README.md 참고
 	</p>
+	<p>
+	Jenkins 빌드 테스트
+	</p>
 </body>
 </html>
